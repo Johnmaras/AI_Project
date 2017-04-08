@@ -1,0 +1,18 @@
+#This is a comment section
+#P21 true
+#B11 false
+-p21vb11
+#Empty lines and comments indicate new sub clauses
+#B11 true
+#P12 false
+#P21 false
+  p12v-b11 v-p21 ^
+-p12vb11
+#P12 true
+#B11 false
+
+
+b11
+#-b11
+
+#B11 true
